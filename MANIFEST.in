@@ -1,0 +1,7 @@
+include dygraph_for_dash/dygraph_for_dash.min.js
+include dygraph_for_dash/dygraph_for_dash.min.js.map
+include dygraph_for_dash/metadata.json
+include dygraph_for_dash/package-info.json
+include README.md
+include LICENSE
+include package.json
